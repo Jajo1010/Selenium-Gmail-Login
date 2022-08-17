@@ -6,6 +6,9 @@ import config
 import sys
 
 driver = webdriver.Chrome()
+if len(sys.argv) < 2:
+    print('Please supply email and password as argument')
+    sys.exit()
 email = str(sys.argv[1])
 password = str(sys.argv[2])
 
