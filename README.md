@@ -40,11 +40,12 @@ Python gmail login automation using Selenium
 ## About The Project
 
 Connect to gmail using python and Selenium, usefull for automations.<br />
+If you encounter captcha, please wait... it takes some time to get it right 😊.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
-### Built With
+## Built With
 * [Python](https://www.python.org/)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -76,6 +77,10 @@ To get a local copy up and running follow these simple example steps.
 * Install requirements.txt
    ```py
   pip install -r requirements.txt
+  ```
+  * Run with credential arguments
+   ```py
+  py main.py name@example.com Password
   ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
