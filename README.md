@@ -61,10 +61,10 @@ To get a local copy up and running follow these simple example steps.
     Google Chrome is required ! 
   </li>
   <li>
-    clone the repository
+    Clone the repository.
   </li>
   <li>
-  after download install the requirements.txt
+    After download install the requirements.txt.
   </li>
 </ol>
 
