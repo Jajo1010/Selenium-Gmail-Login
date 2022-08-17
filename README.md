@@ -58,6 +58,9 @@ To get a local copy up and running follow these simple example steps.
 ### <b>Install </b>
 <ol>
   <li>
+    Google Chrome is required ! 
+  </li>
+  <li>
     clone the repository
   </li>
   <li>
