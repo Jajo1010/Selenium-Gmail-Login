@@ -47,6 +47,7 @@ If you encounter captcha, please wait... it takes some time to get it right 😊
 
 ## Built With
 * [Python](https://www.python.org/)
+* [Selenium](https://www.selenium.dev/)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
